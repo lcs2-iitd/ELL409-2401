@@ -3,4 +3,4 @@ layout: assignments
 title: Assignments
 permalink: /assignments/
 ---
-To be announced ...
+Will be updated soon. 
