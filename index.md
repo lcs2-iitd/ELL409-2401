@@ -1,4 +1,9 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Prerequisites:
+- Basic computer science principles (Big-O notation, Comfortably write non-trivial code in Python/numpy)
+- Probability (Random Variables, Expectations, Distributions)
+- Linear Algebra & Multivariate/Matrix Calculus (Gradients and Hessians, Eigenvalue/vector)
+
+Join our [Microsoft Teams](#) to get course notifications via email.
