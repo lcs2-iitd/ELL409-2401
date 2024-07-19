@@ -1,6 +1,6 @@
 ---
 type: assignment
-date: 2024-08-014:00:00+4:30
+date: 2024-08-01T12:00:00+5:30
 title: 'Assignment #1 - First'
 #pdf: /static_files/assignments/asg.pdf
 #attachment: /static_files/assignments/asg.zip
