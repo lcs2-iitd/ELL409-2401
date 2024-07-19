@@ -1,17 +1,17 @@
 ---
 type: lecture
 
-date: 2024-07-22T11:00:00+4:30
+date: 2024-07-22T08:00:00+4:30
 
 title: "Course Introduction"
 
-tldr: "An introduction to the course content, logistics, policies and background."
+tldr: "An introduction to the course conten and background."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
-thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /_images/lecs/01.png
 
 links: 
-    - url: https://google.com
+    - url: /_images/lecs/01.pdf
       name: slides  
 ---
