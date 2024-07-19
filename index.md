@@ -6,4 +6,4 @@ Prerequisites:
 - Probability (Random Variables, Expectations, Distributions)
 - Linear Algebra & Multivariate/Matrix Calculus (Gradients and Hessians, Eigenvalue/vector)
 
-Join our [Microsoft Teams](#) to get course notifications via email.
+Join our [Microsoft Teams](#) to get course notifications.
