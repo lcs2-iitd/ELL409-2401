@@ -21,8 +21,5 @@ items:
 
 - url: /project/
   name: Project
-  #icon_class: fas fa-user-graduate
+  icon_class: fas fa-code-fork
 
-- url: /materials/
-  name: Materials
-  #icon_class: fas fa-book
