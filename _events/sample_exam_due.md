@@ -1,4 +1,3 @@
-<!---              
 ---
 type: exam
 date: 2018-12-02T8:0:0+3:30
@@ -9,5 +8,3 @@ hide_from_announcments: true
 1. Topic 1
 2. Topic 2
 3. Topic 3
-
- --> 
