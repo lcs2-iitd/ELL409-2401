@@ -2,36 +2,33 @@ instructors:
   - name: Tanmoy Chakraborty
     profile_pic: /_images/pp/tanmoy.png
     webpage: https://tanmoychak.com
-    
-  - name: Yatin Nandwani
-    profile_pic: /_images/pp/yatin.jpeg
-    webpage: https://www.linkedin.com/in/yatinnandwani/
-
-  - name: Dinesh Raghu
-    profile_pic: /_images/pp/dinesh.jpeg
-    webpage: https://research.ibm.com/people/dinesh-raghu
-
-  - name: Gaurav Pandey
-    profile_pic: /_images/pp/gaurav.jpg
-    webpage: https://www.linkedin.com/in/gaurav-pandey-11321120/
-
-  - name: Manish Gupta
-    profile_pic: /_images/pp/manish.jpg
-    webpage: https://www.microsoft.com/en-us/research/people/gmanish/
-    
-  - name: Sourish Dasgupta
-    profile_pic: /_images/pp/sourish.jpeg
-    webpage: https://www.daiict.ac.in/faculty-details/2321
+  
 
 teaching_assistants:
-  - name: Anwoy Chatterjee
-    profile_pic: /_images/pp/anwoy.jpeg
-    webpage: https://www.linkedin.com/in/anwoy-chatterjee
+  - name: Palash Nandi
+    profile_pic: /_images/pp/palash.png
+    webpage: https://www.linkedin.com/in/palash-nandi-937b64bb/
 
-  # - name: Hermione Granger
-  #   profile_pic: /_images/pp/granger.jpg
-  #   webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: Sahil Mishra
+    profile_pic: /_images/pp/sahil.png
+    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  # - name: Ron Weasley
-  #   profile_pic: /_images/pp/weasley.jpg
-  #   webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Aswini Kumar Padhi
+    profile_pic: /_images/pp/aswini.jpg
+    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+
+  - name: Prottay Kumar Adhikary
+    profile_pic: /_images/pp/pro.jpg
+    webpage: https://proadhikary.github.io/
+
+  - name: Vaibhav Seth
+    profile_pic: /_images/pp/baibhav.jpeg
+    webpage: https://www.linkedin.com/in/vaibhav-1-seth/
+
+  - name: Soumyodeep Dey 
+    profile_pic: /_images/pp/soumyo.jpeg
+    webpage: https://www.linkedin.com/in/welcome-to-the-profile-of-soumyodeep/
+
+  - name: Anant Kumar
+    profile_pic: /_images/pp/anant.jpeg
+    webpage: https://www.linkedin.com/in/anant-kumar-8b8663215/
