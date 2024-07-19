@@ -1,0 +1,34 @@
+instructors:
+  - name: Tanmoy Chakraborty
+    profile_pic: /_images/pp/tanmoy.png
+    webpage: https://tanmoychak.com
+  
+
+teaching_assistants:
+  - name: Palash Nandi
+    profile_pic: /_images/pp/palash.png
+    webpage: https://www.linkedin.com/in/palash-nandi-937b64bb/
+
+  - name: Sahil Mishra
+    profile_pic: /_images/pp/sahil.png
+    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+
+  - name: Aswini Kumar Padhi
+    profile_pic: /_images/pp/aswini.jpg
+    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+
+- name: Prottay Kumar Adhikary
+    profile_pic: /_images/pp/pro.jpg
+    webpage: https://proadhikary.github.io/
+
+- name: Vaibhav Seth
+    profile_pic: /_images/pp/baibhav.jpeg
+    webpage: https://www.linkedin.com/in/vaibhav-1-seth/
+
+- name: Soumyodeep Dey 
+    profile_pic: /_images/pp/soumyo.jpeg
+    webpage: https://www.linkedin.com/in/welcome-to-the-profile-of-soumyodeep/
+
+- name: Anant Kumar
+    profile_pic: /_images/pp/anant.jpeg
+    webpage: https://www.linkedin.com/in/anant-kumar-8b8663215/
