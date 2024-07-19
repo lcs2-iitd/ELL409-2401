@@ -9,9 +9,9 @@ tldr: "An introduction to the course content, logistics, policies and background
 
 hide_from_announcments: true
 
-# thumbnail: /static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/lec.jpg
 
 links: 
-    - url: #
+    - url: https://google.com
       name: slides  
 ---
