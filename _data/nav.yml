@@ -21,5 +21,5 @@ items:
 
 - url: /project/
   name: Project
-  icon_class: fas fa-code-fork
+  icon_class: fas fa-code
 
