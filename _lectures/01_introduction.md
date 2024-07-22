@@ -12,6 +12,6 @@ hide_from_announcments: false
 thumbnail: /_images/lecs/01.png
 
 links: 
-    - url: /_images/lecs/01.pdf
+    - url: /_images/lecs/1.Introduction.pdf
       name: slides  
 ---
