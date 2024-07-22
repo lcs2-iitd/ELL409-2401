@@ -1,13 +1,13 @@
 ---
 type: lecture
 
-date: 2024-07-22T08:00:00+4:30
+date: 2024-07-22T08:00:00+5:30
 
 title: "Course Introduction"
 
-tldr: "An introduction to the course content, timeline and background."
+tldr: "An introduction to the course syllabus, timeline and background."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
 thumbnail: /_images/lecs/01.png
 
