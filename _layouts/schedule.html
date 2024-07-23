@@ -9,28 +9,5 @@ layout: default
 {{ content }}
 
 <div class="home" style="font-size: 0.8em;">
-
-    <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FKolkata&bgcolor=%23B39DDB&title=ELL409%20%7C%20Sem-II&mode=AGENDA&showPrint=0&showTz=0&showTitle=0&src=ZTk1ZDk0ZmMwZjNmNTZlYjIzNzczZjBkODE2MWZiMGViYzMxZDJmZjUyNTcwYjU5MTBlMWQ5MDVlN2E1ODdkN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-<!--     <ul class="responsive-table" style="margin-left: 0;">
-        <li class="table-header">
-            <div class="col col-1">Event</div>
-            <div class="col col-1-2">Date</div>
-            <div class="col col-2">Description</div>
-            <div class="col col-4">Course Material</div>
-        </li>
-        
-        {% assign all_assignment_dues = site.assignments | map: "due_event" %}
-
-        {% assign all_events = site.events | concat: site.lectures %}
-        {% assign all_events = all_events | concat: site.assignments %}
-        {% assign all_events = all_events | concat: all_assignment_dues %}
-        {% assign all_events_sorted = all_events | sort: 'date' %}
-
-        {% for event in all_events_sorted %}
-        <li class="table-row table-row-{{ event.type}}">
-            {% include schedule_row_{{ event.type }}.html event=event %}
-        </li>
-        {% endfor %}
-
-    </ul> -->
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FKolkata&bgcolor=%23B39DDB&showNav=0&showPrint=0&showTz=0&mode=AGENDA&src=ZTk1ZDk0ZmMwZjNmNTZlYjIzNzczZjBkODE2MWZiMGViYzMxZDJmZjUyNTcwYjU5MTBlMWQ5MDVlN2E1ODdkN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23E4C441" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
