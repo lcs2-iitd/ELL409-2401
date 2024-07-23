@@ -3,6 +3,10 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
+- url: /Schedule/
+  name: Schedule
+  icon_class: fas fa-clock-o
+
 - url: /lectures/
   name: Materials
   icon_class: fas fa-book-reader
