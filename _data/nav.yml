@@ -5,7 +5,7 @@ items:
 
 - url: /Schedule/
   name: Schedule
-  icon_class: fas fa-clock-o
+  icon_class: fas fa-calendar-alt
 
 - url: /lectures/
   name: Materials
