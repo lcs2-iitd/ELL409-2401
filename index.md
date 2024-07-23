@@ -6,4 +6,4 @@ Prerequisites:
 - Probability (Random Variables, Expectations, Distributions)
 - Linear Algebra & Multivariate/Matrix Calculus (Gradients and Hessians, Eigenvalue/vector)
 
-Join our [Microsoft Teams](#) to get course notifications.
+Join [Piazza](http://piazza.com/iitd.ac.in/fall2024/ell409?token=NY3qNsCRCX3) to get course notifications, access code: NY3qNsCRCX3.
