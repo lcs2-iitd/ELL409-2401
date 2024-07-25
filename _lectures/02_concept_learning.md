@@ -7,7 +7,7 @@ title: "Concept Learning"
 
 tldr: "Learning from Examples, General-to-specific ordering over hypotheses, Version Spaces & candidate elimination algo, Picking new examples, the need for inductive bias"
 
-hide_from_announcments: true
+hide_from_announcments: false
 
 thumbnail: /_images/lecs/01.png
 
