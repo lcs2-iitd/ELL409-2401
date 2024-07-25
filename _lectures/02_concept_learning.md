@@ -13,7 +13,7 @@ thumbnail: /_images/lecs/01.png
 
 links: 
     - url: /_images/lecs/2.Concept_learning.pdf
-      name: slides
+      name: Slides
     - url: /_images/lecs/ipad-scribe_concept_learing.pdf
       name: Scribe
 ---
