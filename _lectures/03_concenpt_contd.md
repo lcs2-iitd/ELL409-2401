@@ -7,7 +7,7 @@ title: "Concept Learning: Continued"
 
 tldr: "Find-S Algorithm, Version Space and CANDIDATE- ELIMINATION, LIST-THEN-ELIMINATION Algorithm, Intro to Desicion Tree."
 
-hide_from_announcments: true
+hide_from_announcments: false
 
 thumbnail: /_images/lecs/01.png
 
