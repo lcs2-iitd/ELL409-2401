@@ -12,6 +12,6 @@ hide_from_announcments: false
 thumbnail: /_images/lecs/01.png
 
 links: 
-    - url: /_images/lecs/2.Concept learning_end.pdf
+    - url: /_images/lecs/3.Concept_learning_end.pdf
       name: Slides
 ---
