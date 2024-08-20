@@ -19,6 +19,6 @@ Kindly fill out the form: [https://forms.office.com/r/wnFG7vw5ha](https://forms.
 <br>
 # Projects Selection
 
-Please find the [list of projects](/_images/assignments/ELL409-Projects.pdf) attached herewith.
+Please find the [list of projects](/_assignments/ELL409-Projects.pdf) attached herewith.
 
 Fill out [this form](https://forms.office.com/r/8cx1fvd2T1) to select the project. You need to fill in the top-5 preferences.
