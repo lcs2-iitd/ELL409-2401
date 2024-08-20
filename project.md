@@ -3,8 +3,6 @@ layout: page
 title: Project
 permalink: /project/
 ---
----
-
 
 # Project Team Formation
 
@@ -13,8 +11,6 @@ Kindly fill out the form: [https://forms.office.com/r/wnFG7vw5ha](https://forms.
 **Deadline:** 13/08/2024 11:59 PM.
 
 **Note:** Only one member per team should fill out the form.
-
----
 
 
 # Projects Selection
