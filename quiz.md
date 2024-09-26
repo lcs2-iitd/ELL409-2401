@@ -1,5 +1,5 @@
 ---
-layout: quiz
+layout: quizs
 title: Quizzes
 permalink: /quizs/
 ---
