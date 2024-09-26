@@ -1,6 +1,6 @@
 ---
 layout: quiz
 title: Quizzes
-permalink: /quiz/
+permalink: /quizs/
 ---
 You can download solutions for quizzes here.
