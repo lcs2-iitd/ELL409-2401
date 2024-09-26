@@ -12,5 +12,5 @@ due_event:
 Please find the assignment 2 attached herewith.
 Submit the Python script into [Moodle](https://moodle.iitd.ac.in/mod/assign/view.php?id=125913), the report, and any other necessary files in a zipped folder named *assignment1_yourfirstname_entrynumber.zip*.
 **Files:**
-- [Assignment](https://lcs2-iitd.github.io/ELL409-2401/_assignments/Assignment_2_ELL409.pdf)
-- [Data](https://lcs2-iitd.github.io/ELL409-2401/_assignments/data.zip)
+- [Assignment](https://csciitd-my.sharepoint.com/:b:/g/personal/eez238354_iitd_ac_in/EVsjSP1wteVNtkko4vgYopoB19Amb3_AOHesZM-5ynaNCQ?e=kC6Rp3)
+- [Data](https://csciitd-my.sharepoint.com/:u:/g/personal/eez238354_iitd_ac_in/Ebeun7f155NCgj6EasVoBQAB_iVem4AFxf2b1a8Q6C309Q?e=pgvfq2)
