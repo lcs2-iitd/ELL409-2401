@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul id="archive">
+{% for qui in site.quiz %}
+<li class="archiveposturl" style="background: transparent">
+<div class="lecture-container">
+    <div class="content">
+        <span style="font-weight: bold;">{{ qui.title }}</span><br>
+        <strong>
+        {% include qui_links.html qui=qui %}
+        </strong>
+
+        {% if qui.content != '' %}
+        <br/>
+        <div class="markdown-content" style="margin-top: 3px;">
+        {{ qui.content }}
+        </div>
+        {% endif %}
+    </div>
+</div>
+</li>
+{% endfor %}
+</ul>
