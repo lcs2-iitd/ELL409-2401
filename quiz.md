@@ -1,5 +1,5 @@
 ---
-layout: lectures
+layout: quiz
 title: Quizzes
 permalink: /quiz/
 ---
