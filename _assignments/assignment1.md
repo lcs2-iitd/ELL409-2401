@@ -12,5 +12,5 @@ due_event:
 Please find the assignment 1 attached herewith.
 Submit the Python script into [Moodle](https://moodle.iitd.ac.in/mod/assign/view.php?id=122628), the report, and any other necessary files in a zipped folder named *assignment1_yourfirstname_entrynumber.zip*.
 **Files:**
-- [Assignment](https://csciitd-my.sharepoint.com/:b:/g/personal/eez238354_iitd_ac_in/EVsjSP1wteVNtkko4vgYopoB19Amb3_AOHesZM-5ynaNCQ?e=kC6Rp3)
-- [Data](https://csciitd-my.sharepoint.com/:u:/g/personal/eez238354_iitd_ac_in/Ebeun7f155NCgj6EasVoBQAB_iVem4AFxf2b1a8Q6C309Q?e=pgvfq2)
+- [Assignment](https://csciitd-my.sharepoint.com/:b:/g/personal/eez238354_iitd_ac_in/ETzKZ7VloDxDn2bFx1wHdmkBV8UXOZC8j6aQ36oviQD4-g?e=x4LzgN)
+- [Data](https://csciitd-my.sharepoint.com/:x:/g/personal/eez238354_iitd_ac_in/Ebc4yNc1MjpDp1ytGVahGLUBbCxq9WJxMMJCXXs0-GZ9cg?e=Ap6sax)
