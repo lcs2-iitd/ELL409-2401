@@ -2,7 +2,7 @@
 type: assignment
 date: 2034-09-26T8:00:00+5:30
 title: 'Assignment #2 - Decision Trees'
-pdf: Assignment_2_ELL409.pdf
+pdf: /Assignment_2_ELL409.pdf
 attachment: data2.csv
 due_event: 
     type: due
