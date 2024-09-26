@@ -11,7 +11,7 @@ items:
   name: Materials
   icon_class: fas fa-book-reader
 
-- url: /quiz/
+- url: /quizs/
   name: Quizzes
   icon_class: fas fa-award
 
