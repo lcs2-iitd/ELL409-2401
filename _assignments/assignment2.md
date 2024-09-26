@@ -10,4 +10,4 @@ due_event:
     description: 'Assignment #2 Due'
 ---
 Please find the assignment 2 attached herewith.
-Submit the Python script into [Moodle](https://moodle.iitd.ac.in/mod/assign/view.php?id=122628), the report, and any other necessary files in a zipped folder named *assignment1_yourfirstname_entrynumber.zip*.
+Submit the Python script into [Moodle](https://moodle.iitd.ac.in/mod/assign/view.php?id=125913), the report, and any other necessary files in a zipped folder named *assignment1_yourfirstname_entrynumber.zip*.
