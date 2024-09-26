@@ -2,8 +2,8 @@
 type: assignment
 date: 2034-09-26T8:00:00+5:30
 title: 'Assignment #2 - Decision Trees'
-pdf: [](https://raw.githubusercontent.com/lcs2-iitd/ELL409-2401/refs/heads/main/_assignments/Assignment_2_ELL409.pdf)
-attachment: [](https://raw.githubusercontent.com/lcs2-iitd/ELL409-2401/refs/heads/main/_assignments/data.zip)
+pdf: [NONE](https://raw.githubusercontent.com/lcs2-iitd/ELL409-2401/refs/heads/main/_assignments/Assignment_2_ELL409.pdf)
+attachment: [NONE](https://raw.githubusercontent.com/lcs2-iitd/ELL409-2401/refs/heads/main/_assignments/data.zip)
 due_event: 
     type: due
     date: 2024-10-12T16:59:00+5:30
