@@ -12,7 +12,7 @@ items:
   icon_class: fas fa-book-reader
 
 - url: /quizs/
-  name: Quizzes
+  name: Sample Questions and Quizzes
   icon_class: fas fa-award
 
 - url: /assignments/
